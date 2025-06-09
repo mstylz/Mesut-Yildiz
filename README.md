@@ -2,7 +2,7 @@
 
 🌐 Web Developer on a journey to become a **Full Stack Developer**  
 📚 Currently learning at **TripleTen's Software Engineering Bootcamp**  
-🌍 Based in [Your Location] | Always curious, always building
+🌍 Based in Boston, Massachusetts | Always curious, always building
 
 ---
 
